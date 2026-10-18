@@ -3,5 +3,5 @@ name = "openclassroom"
 version = "0.1.0"
 requires-python = ">=3.10"
 dependencies = [
-    "docling>=2.140.0",
+    "docling[asr]>=2.140.0",
 ]
